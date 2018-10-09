@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoggerExample</string>
+
+    <string name="Changing_text">Hello</string>
+    <string name="change_text">Click here to login</string>
+    <string name="Log_in_attempt">Not logged in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Logged_in">YOU BLOODY GONE AND DID IT</string>
+</resources>
